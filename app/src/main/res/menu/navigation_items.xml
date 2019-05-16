@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Family"
+        android:id="@+id/family_item"
+        />
+
+    <item
+        android:title="Phrases"
+        android:id="@+id/phrases_item"/>
+
+    <item
+        android:title="Colors"
+        android:id="@+id/colors_item"/>
+
+    <item
+        android:title="Numbers"
+        android:id="@+id/numbers_item"/>
+
+</menu>
